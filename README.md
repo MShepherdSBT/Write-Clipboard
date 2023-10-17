@@ -8,5 +8,5 @@ The default keybind is: LCtrl + LShift + V
 
 To use:
 1. Download and run executable file.
-2. Press LCtrl + LShift + V simultaneously (Be careful, newlines cause the enter key to be sent)
+2. Press LCtrl + LShift + V simultaneously
 3. Right click the green H icon in the windows tray to disable if needed.
